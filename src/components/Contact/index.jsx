@@ -23,10 +23,10 @@ const sendEmail = (e) => {
 
     emailjs
     .sendForm(
-        'service_z1fz2gi',
-        'template_bvgpmlw',
+        'service_lyo8w05',
+        'template_adiup0u',
         refForm.current,
-        'qvHH8t8zY0EcpFNYu'
+        'yIjuRE_xAmPJWRni4'
     )
     .then(
         () => {
