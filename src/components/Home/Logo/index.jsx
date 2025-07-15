@@ -1,5 +1,6 @@
 import './index.scss';
-import LogoS from '../../../assets/images/logo-s.gif'
+
+import LogoS from '../../../assets/images/logo-s.png'
 import { useEffect, useRef } from 'react';
 
 
